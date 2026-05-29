@@ -1,4 +1,4 @@
-const CACHE = 'gymbee-v7';
+const CACHE = 'gymbee-v8';
 const ASSETS = ['/'];
 
 self.addEventListener('install', e => {
